@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zeinab hajhosseini
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning Node JS.
+- 🌱 I’m currently Using Nest JS framework.
 - 📫 My email is: zeinab.hajhosseini72@gmail.com
 
 <!---
